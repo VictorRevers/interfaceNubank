@@ -1,0 +1,12 @@
+{
+  "name": "nubank",
+  "displayName": "nubank",
+
+  "expo": {
+    "name": "nubank",
+    "slug": "nubank",
+    "sdkVersion": "36.0.0",
+    "privacy": "public"
+  }
+
+}
